@@ -8,8 +8,8 @@ Extension.SqlDbconnectionString = builder.Configuration.GetConnectionString("Def
 builder.Services.AddControllers();
 builder.Services.AddApplicationServices();
 
-builder.WebHost.UseKestrel()
-              .UseUrls("http://localhost:5277");
+// builder.WebHost.UseKestrel()
+//               .UseUrls("http://localhost:5277");
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -28,5 +28,5 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.MapControllers();
 app.UseCors("CorsPolicy");
-app.Run();
+app.Run($"http://*:{builder.Configuration.GetValue<int>("portnumber")}");
 

@@ -1,8 +1,7 @@
-﻿namespace StockReport.Core;
-
-using System;
+﻿using System;
 using System.Text.Json.Serialization;
 
+namespace StockReport.Core;
 public class StockReportModels
 {
     [JsonPropertyName("Id")]

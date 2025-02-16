@@ -1,1 +1,29 @@
 2025-02-16 17:40:21.7776  INFO [.NET TP Worker] StockReport.Application.StockReportService StockReportService | GetFilteredStockData | $'Found 1 matching records.' | 
+2025-02-16 19:11:11.6544 Info Registered target NLog.Targets.FileTarget(Name=infoFile)
+2025-02-16 19:11:11.6544 Info Registered target NLog.Targets.FileTarget(Name=errorFile)
+2025-02-16 19:11:11.6686 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-16 19:11:11.6811 Info Validating config: TargetNames=infoFile, errorFile, ConfigItems=44, FilePath=D:\BackendProjects\ExcelStockReport\StockReport.Api\bin\Debug\net8.0\NLog.config
+2025-02-16 19:11:11.6966 Info Configuration initialized.
+2025-02-16 19:11:11.6966  INFO [.NET TP Worker] StockReport.Application.StockReportService StockReportService | InsertExcelData | Data inserted successfully. | 
+2025-02-16 19:11:30.9317  WARN [.NET TP Worker] StockReport.Application.StockReportService StockReportService | GetFilteredStockData | No filtered records found | 
+2025-02-16 19:12:25.9397  INFO [.NET TP Worker] StockReport.Application.StockReportService StockReportService | GetFilteredStockData | $'Found 1 matching records.' | 
+2025-02-16 19:14:55.5761  INFO [.NET TP Worker] StockReport.Application.StockReportService StockReportService | GetFilteredStockData | $'Found 1 matching records.' | 
+2025-02-16 19:14:58.2213  INFO [.NET TP Worker] StockReport.Application.StockReportService StockReportService | GetFilteredStockData | $'Found 412 matching records.' | 
+2025-02-16 23:29:27.8686 Info Registered target NLog.Targets.FileTarget(Name=infoFile)
+2025-02-16 23:29:27.8792 Info Registered target NLog.Targets.FileTarget(Name=errorFile)
+2025-02-16 23:29:27.8792 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-16 23:29:27.9014 Info Validating config: TargetNames=infoFile, errorFile, ConfigItems=44, FilePath=D:\BackendProjects\ExcelStockReport\StockReport.Api\bin\Debug\net8.0\NLog.config
+2025-02-16 23:29:27.9189 Info Configuration initialized.
+2025-02-16 23:29:27.9269  WARN [.NET TP Worker] StockReport.Application.StockReportService StockReportService | GetFilteredStockData | No filtered records found | 
+2025-02-16 23:29:28.0505  WARN [.NET TP Worker] StockReport.Application.StockReportService StockReportService | GetFilteredStockData | No filtered records found | 
+2025-02-16 23:29:47.6075  INFO [.NET TP Worker] StockReport.Application.StockReportService StockReportService | GetFilteredStockData | $'Found 1 matching records.' | 
+2025-02-16 23:30:53.8638  INFO [.NET TP Worker] StockReport.Application.StockReportService StockReportService | InsertExcelData | Data processed successfully. | 
+2025-02-16 23:35:04.0485  INFO [.NET TP Worker] StockReport.Application.StockReportService StockReportService | InsertExcelData | Data processed successfully. | 
+2025-02-16 23:37:02.0612  INFO [.NET TP Worker] StockReport.Application.StockReportService StockReportService | InsertExcelData | Data processed successfully. | 
+2025-02-16 23:50:24.6012 Info Registered target NLog.Targets.FileTarget(Name=infoFile)
+2025-02-16 23:50:24.6174 Info Registered target NLog.Targets.FileTarget(Name=errorFile)
+2025-02-16 23:50:24.6416 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-02-16 23:50:24.6793 Info Validating config: TargetNames=infoFile, errorFile, ConfigItems=44, FilePath=D:\BackendProjects\ExcelStockReport\StockReport.Api\bin\Debug\net8.0\NLog.config
+2025-02-16 23:50:24.7239 Info Configuration initialized.
+2025-02-16 23:50:24.7239  INFO [.NET TP Worker] StockReport.Application.StockReportService StockReportService | InsertExcelData | Data processed successfully. | 
+2025-02-16 23:50:47.4443  INFO [.NET TP Worker] StockReport.Application.StockReportService StockReportService | GetFilteredStockData | $'Found 1 matching records.' | 
