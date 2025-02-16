@@ -61,6 +61,7 @@ D:\BackedProjects\ExcelStockReport\StockReport.Api\obj\Debug\net8.0\refint\Stock
 D:\BackedProjects\ExcelStockReport\StockReport.Api\obj\Debug\net8.0\StockReport.Api.pdb
 D:\BackedProjects\ExcelStockReport\StockReport.Api\obj\Debug\net8.0\StockReport.Api.genruntimeconfig.cache
 D:\BackedProjects\ExcelStockReport\StockReport.Api\obj\Debug\net8.0\ref\StockReport.Api.dll
+D:\BackendProjects\ExcelStockReport\StockReport.Api\bin\Debug\net8.0\Nlog.config
 D:\BackendProjects\ExcelStockReport\StockReport.Api\bin\Debug\net8.0\appsettings.Development.json
 D:\BackendProjects\ExcelStockReport\StockReport.Api\bin\Debug\net8.0\appsettings.json
 D:\BackendProjects\ExcelStockReport\StockReport.Api\bin\Debug\net8.0\StockReport.Api.exe
@@ -110,6 +111,7 @@ D:\BackendProjects\ExcelStockReport\StockReport.Api\obj\Debug\net8.0\StockReport
 D:\BackendProjects\ExcelStockReport\StockReport.Api\obj\Debug\net8.0\StockReport.Api.csproj.CoreCompileInputs.cache
 D:\BackendProjects\ExcelStockReport\StockReport.Api\obj\Debug\net8.0\StockReport.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\BackendProjects\ExcelStockReport\StockReport.Api\obj\Debug\net8.0\StockReport.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\BackendProjects\ExcelStockReport\StockReport.Api\obj\Debug\net8.0\StockReport.Api.sourcelink.json
 D:\BackendProjects\ExcelStockReport\StockReport.Api\obj\Debug\net8.0\staticwebassets.build.json
 D:\BackendProjects\ExcelStockReport\StockReport.Api\obj\Debug\net8.0\staticwebassets.development.json
 D:\BackendProjects\ExcelStockReport\StockReport.Api\obj\Debug\net8.0\staticwebassets\msbuild.StockReport.Api.Microsoft.AspNetCore.StaticWebAssets.props

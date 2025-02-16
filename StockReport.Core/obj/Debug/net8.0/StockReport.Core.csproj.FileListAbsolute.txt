@@ -16,6 +16,7 @@ D:\BackendProjects\ExcelStockReport\StockReport.Core\obj\Debug\net8.0\StockRepor
 D:\BackendProjects\ExcelStockReport\StockReport.Core\obj\Debug\net8.0\StockReport.Core.AssemblyInfoInputs.cache
 D:\BackendProjects\ExcelStockReport\StockReport.Core\obj\Debug\net8.0\StockReport.Core.AssemblyInfo.cs
 D:\BackendProjects\ExcelStockReport\StockReport.Core\obj\Debug\net8.0\StockReport.Core.csproj.CoreCompileInputs.cache
+D:\BackendProjects\ExcelStockReport\StockReport.Core\obj\Debug\net8.0\StockReport.Core.sourcelink.json
 D:\BackendProjects\ExcelStockReport\StockReport.Core\obj\Debug\net8.0\StockReport.Core.dll
 D:\BackendProjects\ExcelStockReport\StockReport.Core\obj\Debug\net8.0\refint\StockReport.Core.dll
 D:\BackendProjects\ExcelStockReport\StockReport.Core\obj\Debug\net8.0\StockReport.Core.pdb

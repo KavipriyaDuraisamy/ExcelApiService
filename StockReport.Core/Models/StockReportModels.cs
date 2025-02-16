@@ -114,8 +114,3 @@ public class StockReportModels
     public double Range { get; set; }
 }
 
-
-public static class Extension
-{
-     public static string? SqlDbconnectionString { get; set; }
-}

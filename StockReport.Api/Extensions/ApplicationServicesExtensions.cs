@@ -8,11 +8,7 @@ namespace StockReport.Extensions;
         public static IServiceCollection AddApplicationServices(this IServiceCollection services)
         {
             services.AddScoped<StockReportRepository, StockReportService>();
-
-
-
             return services;
-
             
         }
     }

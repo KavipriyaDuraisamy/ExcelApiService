@@ -27,6 +27,7 @@ D:\BackendProjects\ExcelStockReport\StockReport.Application\obj\Debug\net8.0\Sto
 D:\BackendProjects\ExcelStockReport\StockReport.Application\obj\Debug\net8.0\StockReport.Application.AssemblyInfoInputs.cache
 D:\BackendProjects\ExcelStockReport\StockReport.Application\obj\Debug\net8.0\StockReport.Application.AssemblyInfo.cs
 D:\BackendProjects\ExcelStockReport\StockReport.Application\obj\Debug\net8.0\StockReport.Application.csproj.CoreCompileInputs.cache
+D:\BackendProjects\ExcelStockReport\StockReport.Application\obj\Debug\net8.0\StockReport.Application.sourcelink.json
 D:\BackendProjects\ExcelStockReport\StockReport.Application\obj\Debug\net8.0\StockRep.32A6C2EF.Up2Date
 D:\BackendProjects\ExcelStockReport\StockReport.Application\obj\Debug\net8.0\StockReport.Application.dll
 D:\BackendProjects\ExcelStockReport\StockReport.Application\obj\Debug\net8.0\refint\StockReport.Application.dll
