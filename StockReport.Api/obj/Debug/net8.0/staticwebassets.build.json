@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9O8AcRR3cwfLo+67da5oPqctpBQADnYjRao5+O/ccOI=",
+  "Source": "StockReport.Api",
+  "BasePath": "_content/StockReport.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
