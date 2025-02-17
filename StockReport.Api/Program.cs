@@ -8,9 +8,6 @@ Extension.SqlDbconnectionString = builder.Configuration.GetConnectionString("Def
 builder.Services.AddControllers();
 builder.Services.AddApplicationServices();
 
-// builder.WebHost.UseKestrel()
-//               .UseUrls("http://localhost:5277");
-
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddCors(options =>
